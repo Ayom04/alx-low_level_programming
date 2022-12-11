@@ -1,1 +1,1 @@
-c if, else if
+c variable 1
