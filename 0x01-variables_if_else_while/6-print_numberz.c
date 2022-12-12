@@ -3,7 +3,7 @@
 /**
  * main - return single integer from 0-10
  * Return: Always 0
-*/
+*/{
 {
 	int main = '0';
 
