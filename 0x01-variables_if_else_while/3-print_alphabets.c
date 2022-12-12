@@ -8,6 +8,7 @@ int main(void)
 {
 	int ch = 'a';
 	int ch = 'A';
+
 	while (ch <= 'z')
 
 
