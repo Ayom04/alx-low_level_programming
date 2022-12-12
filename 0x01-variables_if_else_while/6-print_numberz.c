@@ -3,15 +3,16 @@
 /**
  * main - return single integer from 0-10
  * Return: Always 0
-*/{
+*/
+int main(void)
 {
-	int main = '0';
+	int num '0';
 
 	while (num <= '9')
 	{
 		putchar(num);
 		num++;
 	}
-	putchar('\n');
+	putchar('\n')
 	return (0);
-}
+};
