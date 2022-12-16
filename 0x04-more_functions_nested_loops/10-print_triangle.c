@@ -1,8 +1,9 @@
-#include "main.h"
+#onclude "main.h"
+
 /**
  * print_triangle - create triangle
- * @size: params
- * Retuen: 0
+ *  @size: params
+ *  Return: 0
 */
 void print_triangle(int size)
 {
@@ -15,7 +16,7 @@ void print_triangle(int size)
 			for (j = 0; j < size; j++)
 			{
 				if (j < n)
-					_putchar(' ')
+					_putchar(' ');
 				else
 					_putchar('#');
 			}
